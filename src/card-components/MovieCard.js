@@ -47,4 +47,3 @@ MovieCard.defaultProps = {
 	genres: ['No Genre(s) Found'],
 	poster: 'default'
 };
-© 2021 GitHub, Inc.
